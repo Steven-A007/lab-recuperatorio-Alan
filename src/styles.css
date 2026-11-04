@@ -117,3 +117,10 @@ button {
 .mensaje.error {
   color: crimson;
 }
+
+/* ---------- extras ---------- */
+.columna-derecha {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
